@@ -1,9 +1,11 @@
 {
-  "name": "GOREE Web Publishing",
+  "name": "GOREE",
   "version": "0.0.1",
   "writer": "moon",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "start" : "grunt pub && open index.html"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.1",
