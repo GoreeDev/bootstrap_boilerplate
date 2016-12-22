@@ -1,0 +1,13 @@
+{
+  "name": "GOREE Web Publishing",
+  "version": "0.0.1",
+  "writer": "moon",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-less": "^1.4.0"
+  }
+}
